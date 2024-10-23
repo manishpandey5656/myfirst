@@ -10,7 +10,7 @@ public class PalindromChecker {
 			for( int i = 0, j =word.length() -1 ; i<j ;i++ ,j--) { // here we used the condition with two variables , if they satify only than String will be pallindrome
 				if(word.toLowerCase().charAt(i) == word.toLowerCase().charAt(j)) { 
 					System.out.println(word +" is pallindrome");
-					return;
+					
 				}
 				else {
 					System.out.println(word+ " is not pallindrome");
