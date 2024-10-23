@@ -1,5 +1,5 @@
 // question:-
- //Check for Palindrome Number: Write a program to check if a number is a palindrome (e.g., 121).
+ //Check for Palindrome : Write a program to check if a word is a palindrome (e.g., 121).
 
  public class PalindromChecker {
 	
